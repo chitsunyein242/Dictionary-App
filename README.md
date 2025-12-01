@@ -33,6 +33,10 @@ Users can search for any English word and instantly view its meaning, pronunciat
 
 •    Free Dictionary API (dictionaryapi.dev)
 
+## 🔗 Live Demo
+[👉 Click here to use the Dictionary App](https://chitsunyein242.github.io/Dictionary-App/)
+
+
 
 
 
